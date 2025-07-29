@@ -18,7 +18,7 @@
   Java-based portfolio project to showcase artwork and designs.
 
 ## 📫 Let's Connect
-- 📧 Email: mansurifalak49@gmail.com
+- 📧 Email: adnan9569@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/adnan-siddiqui95)
 
 > "Consistency and code are the keys to mastery."
