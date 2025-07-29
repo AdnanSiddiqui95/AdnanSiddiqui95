@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Adnan Siddiqui
 
-<!--
-**AdnanSiddiqui95/AdnanSiddiqui95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student | 💻 Aspiring Full Stack Developer | 🌐 Passionate about building Web Applications
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- 🌐 HTML, CSS, JavaScript, Bootstrap, React
+- 🧠 Java, MySQL
+- ⚙️ Tools: Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+- **[Eye Hospital Management System](https://github.com/AdnanSiddiqui95/Eye-Hospital-Management-System)**  
+  HTML-based web application for hospital records and appointments.
+
+- **[Dental Dashboard](https://github.com/AdnanSiddiqui95/dental-dashboard)**  
+  Frontend-only React dashboard for dental center management.
+
+- **[ArtFolio](https://github.com/AdnanSiddiqui95/ArtFolio)**  
+  Java-based portfolio project to showcase artwork and designs.
+
+## 📫 Let's Connect
+- 📧 Email: mansurifalak49@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/adnan-siddiqui95)
+
+> "Consistency and code are the keys to mastery."
