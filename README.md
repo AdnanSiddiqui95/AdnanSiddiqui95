@@ -19,6 +19,6 @@
 
 ## 📫 Let's Connect
 - 📧 Email: adnan9569@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/adnan-siddiqui95)
+- 💼 [LinkedIn](https://www.linkedin.com/in/adnan-siddiqui-83080822b/)
 
 > "Consistency and code are the keys to mastery."
